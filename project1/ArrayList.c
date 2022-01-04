@@ -4,7 +4,7 @@
 
 typedef struct {
     int* array;
-    size_t size;
+    size_t size; 
 } ArrayList;
 
 void createArrayList(ArrayList* list, size_t initialSize){
