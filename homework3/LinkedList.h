@@ -1,7 +1,5 @@
 
-
-#ifndef LINKEDLIST_H
-#define LINKEDLIST_H
+#pragma once
 
 #include<stdint.h>
 
@@ -22,5 +20,3 @@ void set(LinkedList*, size_t, int);
 int get(const LinkedList*, size_t);
 void add(LinkedList*, int);
 void deleteLinkedList(LinkedList*);
-
-#endif

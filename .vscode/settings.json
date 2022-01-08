@@ -2,6 +2,8 @@
     "files.associations": {
         "genericarraylist2.h": "c",
         "stdio.h": "c",
-        "corecrt_stdio_config.h": "c"
+        "corecrt_stdio_config.h": "c",
+        "windows.h": "c",
+        "unistd.h": "c"
     }
 }
